@@ -1,9 +1,9 @@
-package math.problems;
+/*package math.problems;
 
 public class MakePyramid {
     public static void main(String[] args) {
 
-        /*   Implement a large Pyramid of stars in the screen with java.
+        *//*   Implement a large Pyramid of stars in the screen with java.
 
                               *
                              * *
@@ -12,7 +12,7 @@ public class MakePyramid {
                           * * * * *
                          * * * * * *
 
-        */
+        *//*
         int n=10;
         pyramid(n);
     }
@@ -31,7 +31,7 @@ public class MakePyramid {
         }
 
     }
-}
+}*/
 
 
 

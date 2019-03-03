@@ -1,4 +1,4 @@
-
+/*
 
 package algorithm;
 
@@ -6,9 +6,9 @@ import org.testng.Assert;
 
 public class UnitTestSorting {
 
-    /*
+    *//*
       This class is about Unit testing for Sorting Algorithm.
-     */
+     *//*
     public static void main(String[] args) {
         int [] unSortedArray = {6,9,2,5,1,0,4};
         int [] sortedArray =   {0,1,2,4,5,6,9};
@@ -78,6 +78,6 @@ public class UnitTestSorting {
 
 
     }
-}
+}*/
 
 
